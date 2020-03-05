@@ -1,5 +1,6 @@
 # vra-python-client
 vRealize Automation SDK Python Client
+- only supporting vRA IaaS Api 
 
 ## Requirements.
 
