@@ -178,3 +178,5 @@ vra_iaas_client.egg-info/PKG-INFO
 vra_iaas_client.egg-info/requires.txt
 vra_iaas_client.egg-info/SOURCES.txt
 vra_iaas_client.egg-info/top_level.txt
+examples/input.json
+examples/output.json

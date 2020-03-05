@@ -1,0 +1,36 @@
+{
+    "cloudaccount": [
+        {
+            "cloudaccountID": ""
+        }
+    ],
+    "netprofiles": [
+        {
+            "networkprofileID": ""
+        },
+        {
+            "networkprofileID": ""
+        }
+    ],
+    "projects": [
+        {
+            "projectID": ""
+        }
+    ],
+    "regions": [
+        {
+            "regionID": ""
+        },
+        {
+            "regionID": ""
+        }
+    ],
+    "zones": [
+        {
+            "cloudzoneID": ""
+        },
+        {
+            "cloudzoneID": ""
+        }
+    ]
+}

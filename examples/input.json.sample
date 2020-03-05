@@ -1,0 +1,14 @@
+{
+    "refresh_token": "",
+    "aws_access_key": "",
+    "aws_secret": "",
+    "cloud_account_name": "SDK_AWS_ACC",
+    "project_name": "SDK Project",
+    "members": {
+        "email": ""
+    },
+    "administrators": {
+        "email": ""
+    },
+    "subnet_name": "lab-net"
+}
